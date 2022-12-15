@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mateo",
+      "empresa": "msl",
+      "email": "salinasmateo@outlook.com",
+      "telefono": "11111",
+      "notas": "Aprendiendo a prog",
+      "id": 1
+    }
+  ]
+}
